@@ -1,4 +1,4 @@
-# subghz-doorbell
+# SubGHz Doorbell
 
 Arduino + RFM69 = SubGHz Doorbell
 
